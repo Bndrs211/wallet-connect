@@ -1,4 +1,4 @@
-root: ./
+root: ./bndrs211
 
 structure:
   readme: ./docs/INTRODUCTION.md
@@ -7,4 +7,4 @@ structure:
 redirects:
   web-quick-start: ./webapp/README.md
   mobile-quick-start: ./docs/MOBILE.md
-  api-reference: ./docs/API_REFERENCE.md
+  api-reference: ./docs/API_REFERENCE.xmedia
